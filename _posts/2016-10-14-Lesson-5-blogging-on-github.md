@@ -11,7 +11,7 @@ published: true
     <td>Title:  </td>
     <td>Transparency, Tables and Shadows</td>
     <td> Date:  </td>
-    <td>07/09/16</td>
+    <td>6/10/16</td>
   </tr>
 </table>
 
