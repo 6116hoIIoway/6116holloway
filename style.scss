@@ -15,6 +15,7 @@
 
 iframe {
 	width: 100%;
+	height: 300px;
 }
 
 table, th, td {
@@ -31,6 +32,7 @@ body {
 	background: url(http://opengameart.org/sites/default/files/dark%20background.png) ;
   font: 18px/1.4 $helvetica;
   color: #ffffff;
+	background-attatchment: fixed;
 }
 
 .container {
