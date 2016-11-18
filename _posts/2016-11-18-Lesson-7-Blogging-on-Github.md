@@ -33,7 +33,7 @@ published: true
 </table>
 
 
-https://docs.google.com/spreadsheets/d/1sJzcbn1s8yO9fCr_i0_IptKfTeU96tNqpN7CfyiMj3A/pubhtml
+<iframe src="https://docs.google.com/spreadsheets/d/1sJzcbn1s8yO9fCr_i0_IptKfTeU96tNqpN7CfyiMj3A/pubhtml?widget=true&amp;headers=false"></iframe>
 
 <table>
   <tr>
